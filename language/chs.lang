@@ -1,0 +1,83 @@
+[FormMain]
+BtnDriverNo1.Caption = 磁盘 1
+BtnDriverNo2.Caption = 磁盘 2
+BtnFindWBFS.Caption = 搜索
+BtnFormat1.Caption = 格式化
+BtnCovers.Caption = 封面
+BtnUpdate.Caption = 升级
+BtnCopy.Caption = 复制
+BtnWorkDir.Caption = 浏览...
+BtnWorkDirReflash.Caption = 刷新
+Driver2Load.Caption = 隐藏
+BtnConfig.Caption = 选项
+BtnDownload.Caption = 下载
+BtnLocal.Caption = 本地
+BtnMobi.Caption = 移动盘
+BtnSync.Caption = 同步本地与移动盘封面
+BtnOpen.Caption = 打开
+png3d.Hint = 打开封面目录
+pngdisc.Hint = 下载本游戏封面，需要几分钟，请等待！
+
+
+[FormMain.ListView]
+columns[0].caption = 游戏名称
+columns[1].caption = 编号
+columns[2].caption = 大小
+
+[FormMain.PopView-]
+Add.Caption = 添加...
+Cdrom.Caption = 从光盘添加
+PopView2Rename.Caption = 重命名
+Del.Caption = 删除
+IsoOut.Caption = 导出ISO文件...
+WBF.Caption = 导出WBF文件...
+WBFS.Caption = 导出WBFS文件...
+CISO.Caption = 导出CISO文件...
+1ToD2.Caption = 复制到磁盘2
+2ToD1.Caption = 复制到磁盘1
+GameInfo.Caption = 导出Titles.txt
+ShowCHS.Caption = 仅显示中文不修改
+ToEnglish.Caption = 游戏名英文化
+SelectAll.Caption = 全部选定
+NoSelect.Caption = 反向选择
+
+[FormMain.PopListBox2-]
+CdromWBFS.caption = 从光盘导入WBFS文件
+CdromWBF.caption = 从光盘导入WBF文件
+CdromISO.caption = 从光盘导入ISO文件
+ModiCode.caption = 修改游戏编号
+GetWad.caption = 导出WAD文件
+
+[Gvar]
+GFreeOf = 可用，共
+GNoWBFS = 当前分区非wbfs分区，或无wbfs目录!
+Gdirname = 请选择文件夹
+Gnofreespace = 当前移动盘的可用空间不足，程序执行终止,请检查!
+GnoOneDvdSize = 磁盘剩余空间不足4.37G，无法导入文件:
+GbadFile = 文件有问题，请检查!
+GbadDriver = 驱动器有问题，请检查!
+Gformat1 = 警告:格式化将删除该磁盘上的所有数据。
+Gformat2 = 若想格式化该磁盘，请单击确定。若想退出，请单击取消。
+Gformat3 = 格式化完毕。
+Gneedwbfsdir = 你需要添加wbfs目录吗？需要添加，请单击是。若不需要，请单击否。
+Gquestion = 询问
+Gdelfile = 现在要删除文件，请确认是否继续?
+Gextract = 导出文件结束
+Glist = 游戏信息已导出，保存在当前目录下，文件名为titles.txt
+Gcomplete = 处理成功，请检查!
+Gbegin = 封面后台下载开始，视不同网络速度和游戏数量，将花费不同的时间，请不要关闭主窗口！
+
+[Form3]
+CheckBox1.Caption = NTFS分区使用*.wbfs文件格式存贮文件
+CheckBox2.Caption = 所有游戏文件存储到移动盘/wbfs/当前目录下
+CheckBox3.Caption = 在磁盘列表中显示Usb-Loader文件夹所在的盘符
+Button1.Caption = 保存
+Button2.Caption = 取消
+
+[Form4]
+Caption = 格式化 磁盘
+Label1.Caption = 磁盘空间
+Label3.Catpion = 文件类型
+Button1.Caption = 开始
+Button2.Caption = 关闭
+

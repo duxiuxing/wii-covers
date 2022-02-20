@@ -1,0 +1,81 @@
+[FormMain]
+BtnDriverNo1.Caption = Driver 1
+BtnDriverNo2.Caption = Driver 2
+BtnFindWBFS.Caption = Search
+BtnFormat1.Caption = Format
+BtnCovers.Caption = Covers
+BtnUpdate.Caption = Update
+BtnCopy.Caption = Copy
+BtnWorkDir.Caption = Browse...
+BtnWorkDirReflash.Caption  = Refresh
+Driver2Load.Caption = Hide
+BtnConfig.Caption = Options
+BtnDownload.Caption = Download
+BtnLocal.Caption = Local
+BtnMobi.Caption = Wii Disk
+BtnSync.Caption = Sync Covers
+BtnOpen.Caption = Open
+png3d.Hint = Open the directory of covers!
+pngdisc.Hint = Download the cover of the game, take a few minutes, please wait!
+
+[FormMain.ListView]
+columns[0].caption = Game Name
+columns[1].caption = Code
+columns[2].caption = Size
+
+[FormMain.PopView-]
+Add.Caption = Add...
+Cdrom.Caption = Add from Disc
+Rename.Caption = Rename
+Del.Caption = Delete
+IsoOut.Caption = Extract ISO Files...
+WBF.Caption = Extract WBF Files...
+WBFS.Caption = Extract WBFS Files...
+CISO.Caption = Extract CISO Files...
+1ToD2.Caption = Copy To Driver 2
+2ToD1.Caption = Copy To Driver 1
+GameInfo.Caption = Get titles.txt 
+ShowCHS.Caption = Only Show Chinese
+ToEnglish.Caption = Game Name To English
+SelectAll.Caption = Select All
+NoSelect.Caption = Invert Selection
+
+[FormMain.PopListBox2-]
+CdromWBFS.caption = Add WBFS File From Disc
+CdromWBF.caption = Add WBF File From Disc
+CdromISO.caption = Add ISO File From Disc
+ModiCode.caption = Modify Game Code
+GetWad.caption = Get WAD File
+
+[Gvar]
+GFreeOf = free of
+GNoWBFS = This is not WBFS partition,or no directory of wbfs!
+Gdirname = Please select directory
+Gnofreespace = partition has not enough space!
+GnoOneDvdSize = No enough free disk (4.37G)£¬Exit!
+GbadFile = not a wii disc!
+GbadDriver = Error Driver,Please check first!
+Gformat1 = Notice:it will delete all data in the disk¡£
+Gformat2 = If you want to format this disk,please press ok,or press cancel;
+Gformat3 = Format complete.
+Gneedwbfsdir = Will you add directory of wbfs?
+Gquestion = Question
+Gdelfile = It will delete file,are you sure?
+Gextract = File Extract success.
+Glist = The information of Game extract success ,the name of file is titles.txt.
+Gcomplete = Complete success,please check£¡
+Gbegin = the Covers download start, depending on network speed and number of games, will take different time, please do not close the main window!
+
+[Form3]
+CheckBox1.Caption = NTFS partition USES the *. WBFS file format storage file
+CheckBox2.Caption = All game file storage to USB/WBFS/
+CheckBox3.Caption = Disk list shows where the Usb-Loader folder dish descriptor 
+Button1.Caption = Save
+Button2.Caption = Cancel
+
+[Form4]
+Caption = Format Disk
+Label1.Caption = Disk Space
+Label3.Caption = File Type
+Button1.Caption = Begin
+Button2.Caption = Close

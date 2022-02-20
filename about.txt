@@ -1,0 +1,28 @@
+1.感谢flfl 提供wbfs管理器，ice1006提供修改的wbfs_file.exe程序
+2.感谢以下网友提供测试或改进意见：
+  alley80、golui、yzy2098、lc0923，Clearhu,snowmanee,xwei,connors，电网 
+3.感谢以下网站的无私奉献
+  www.91wii.com
+  www.cngba.com
+  www.wiibbs.com
+  bbs.yyjoy.com/forum-124-1.html
+
+  www.theotherzone.com/wii/
+  www.wiinewz.com
+  www.gbatemp.net
+  www.qkshare.com/forum18-2.html
+  www.wiitdb.com
+4.感谢所有为wii提供各种支持的人们！
+
+本软件属于界面部分由www.wuyou.com 制作，里面的各工具软件由各软件作者所有。
+wuyou软件的主要工作就是把各种工具软件集成起来，方便大家管理。
+
+本软件自由交流，欢迎转贴！
+
+欢迎大家反馈意见，以便让wii管理更加方便。
+
+
+QQ:184822951
+
+无忧启动 http://www.wuyou.com
+交流论坛：http://bbs.wuyou.com

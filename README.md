@@ -1,2 +1,3 @@
 # wuyou
-WUYOU 是 Windows 下管理 Wii 用 SD 卡和移动硬盘的工具
+
+WUYOU 是 Windows 下管理 Wii 用存储设备（包括 SD 卡、U 盘、移动硬盘、读卡器等）的工具
